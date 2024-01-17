@@ -59,7 +59,8 @@ html::-webkit-scrollbar-track{
 }
 html::-webkit-scrollbar-thumb{
   /* background: var(--colorr); */
-  background: linear-gradient(var(--white),var(--purple));
+  /* background: linear-gradient(var(--white),var(--purple)); */
+  background: rgb(160, 152, 152);
   border-radius: 70px;
 }
 
